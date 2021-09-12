@@ -126,7 +126,80 @@ html {
   color: #fff;
 }
 
+.main {
+  margin: 0px auto;
+  max-width: 1410px;
+}
 
+.locations-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  justify-content: center;
+}
+
+.title {
+  color: #4D4D4D;
+  font-size: calc(2rem + 1vw);
+  font-weight: 400;
+  margin: 2.5rem;
+}
+
+.location-container {
+  background: #fff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  cursor: pointer;
+  max-width: 320px;
+}
+
+.location__top-container {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.35),
+                       rgba(0, 0, 0, 0.35)), url('https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1500&q=80');
+  background-size: cover;
+  height: 175px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.location__share-button {
+  border-radius: 50%;
+  height: 75px;
+  width: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 0;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.material-icons--grey {
+  color: #4D4D4D;
+  transform: rotateY(180deg);
+  font-size: 44px;
+}
+
+.location__views-container {
+  text-align: center;
+  margin-top: 25px;
+  margin-right: 25px;
+  color: #fff;
+}
+
+.location__views {
+  font-size: 12px;
+  margin-bottom: 10px;
+}
+
+.location__number {
+  font-size: 36px;
+}
+
+.location__bottom-container {
+  margin: 10px 20px;
+  word-wrap: break-word;
+}
 
 @media only screen and (max-width: 600px) {
   .material-icons {
