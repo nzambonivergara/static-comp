@@ -245,7 +245,6 @@ html {
 
 .location__name {
   font-size: 1.25rem;
-  /* margin-top: 20px; */
 }
 
 .location__details {
@@ -283,15 +282,17 @@ html {
   }
 
   .header {
-    /* background: red; */
     justify-content: flex-end;
-
   }
 
   .header__info {
     width: 100%;
     align-items: flex-end;
   }
+
+	.login-button__username {
+		display: none;
+	}
 
   .header__login-button,
   .header__logo {
@@ -307,10 +308,11 @@ html {
   .nav__list-item,
   .list-item {
     margin-left: 1rem;
-    margin-bottom: 0.25rem;
+    margin-bottom: 0.5rem;
     padding: 0px;
   }
-  /* .location-container {
-    width: 320px;
-  } */
+
+	.title {
+		margin: 0.75rem 1.5rem;
+	}
 }
