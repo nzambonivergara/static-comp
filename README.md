@@ -2,7 +2,7 @@
 
 ## Overview 
 
-In this project, we were tasked to recreate a webpage based off of a provided static comp. We had creative license to include our own font, images, icons, theme, etc. I chose to create a site to search for home stays/adventures. The layout is compatible in multiple browsers and responsive and can be viewed on mobile, tablet and desktop.  
+In this project, we were tasked to recreate a webpage based off of a provided static comp. We had creative license to include our own font, images, icons, theme, etc. I chose to create a site to search for home stays/adventures. The layout is compatible with multiple browsers and incorporates responsive design to be viewed on mobile, tablet or on a desktop.  
 
 ## Illustrations
 
