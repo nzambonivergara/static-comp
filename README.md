@@ -14,9 +14,7 @@ In this project, we were tasked to recreate a webpage based off of a provided st
 
 [Deploy Link](https://nzambonivergara.github.io/static-comp/)
 
-<img width="1439" alt="Screen Shot 2021-09-13 at 12 27 25 PM" src="https://user-images.githubusercontent.com/83611094/133137261-b0281b3f-69eb-4e1b-a527-a709c3b43a73.png">
-
-<img width="1435" alt="Screen Shot 2021-09-13 at 12 27 53 PM" src="https://user-images.githubusercontent.com/83611094/133160921-b37ff50c-4ef1-495f-886d-ba36f437b2d8.png">
+![Comp Version](https://user-images.githubusercontent.com/83611094/133176698-7dd6a1c8-3807-4bfe-969b-8e0993427767.png)
 
 ## Install + Setup
 
