@@ -104,14 +104,15 @@ html {
 .nav__list {
   align-items: flex-end;
   display: flex;
-  cursor: pointer;
   flex-wrap: wrap;
   justify-content: space-around;
 }
 
 .list-item {
   align-items: center;
+	border-bottom: 4px solid transparent;
   color: #919191;
+	cursor: pointer;
   display: flex;
   font-size: calc(0.75rem + 0.5vw);
   font-weight: 400;
@@ -119,6 +120,10 @@ html {
   margin-left: 2rem;
   padding: 0.5rem 0;
   text-decoration: none;
+}
+
+.list-item:hover {
+	border-bottom: 4px solid #3FB6FE;
 }
 
 .list-item--white,
